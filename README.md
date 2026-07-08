@@ -75,7 +75,7 @@ C:\Python27\python.exe btcrecover.py --wallet "path\to\wallet.wallet" --password
 ```bash
 # Example paths from a recovery setup (run in the commandline "cmd")
 C:\Python27\python.exe
-C:\Users\Perri\Documents\btcrecover\btcrecover-master\
+C:\Users\ExampleUser\Documents\btcrecover\btcrecover-master\
 G:\MultiBit\multibit.wallet
 ```
 
