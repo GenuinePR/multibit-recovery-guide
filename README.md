@@ -53,7 +53,12 @@ The original MultiBit Classic installer has been recovered from an old Downloads
 **Trusted sources for download:**
 - [archive.org — MultiBit Classic 0.5.18](https://archive.org/details/MultiBitClassic-0.5.18)
 - [Pascal Bergeron — Where to Download MultiBit Classic](https://pascal-bergeron.com/en/posts/where-to-download-multibit-classic/)
-  
+
+**Before running any downloaded software:**
+- Verify checksums whenever possible.
+- Scan downloaded files with your preferred antivirus solution.
+- Perform wallet recovery operations offline whenever practical.
+
 ## Quick Start
 
 ```bash
