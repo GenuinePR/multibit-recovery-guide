@@ -1,7 +1,12 @@
 # MultiBit Classic Wallet Recovery Toolkit
 
 A guide and toolkit for recovering lost Bitcoin wallets created using **MultiBit Classic** (2011–2017). Includes recovery steps, legacy scripts, and tools for extracting private keys using `btcrecover` and Python 2.7.
-
+> [!WARNING]
+> This toolkit is intended only for recovering wallets that you personally own.
+>
+> Never upload wallet files, private keys, seed phrases, passwords, or recovery output to GitHub.
+>
+> Perform recovery operations offline whenever possible.
 ---
 
 ## Features
