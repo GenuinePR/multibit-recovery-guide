@@ -50,11 +50,10 @@ The original MultiBit Classic installer has been recovered from an old Downloads
 > ⚠️ This file is not included in the repository due to GitHub’s restrictions on binaries and licensing concerns.  
 > Always verify file integrity using the SHA-256 hash and run only in a secure, offline environment.
 
-**Trusted source for download:**  
-[archive.org — MultiBit Classic 0.5.18](https://archive.org/details/MultiBitClassic-0.5.18)
-
----
-
+**Trusted sources for download:**
+- [archive.org — MultiBit Classic 0.5.18](https://archive.org/details/MultiBitClassic-0.5.18)
+- [Pascal Bergeron — Where to Download MultiBit Classic](https://pascal-bergeron.com/en/posts/where-to-download-multibit-classic/)
+  
 ## Quick Start
 
 ```bash
