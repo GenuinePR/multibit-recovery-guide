@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # wallet-tool.py - Print addresses and private keys from a BitcoinJ-based .wallet file (e.g., MultiBit Classic)
+print("WARNING: This tool may expose private keys. Run offline. Do not paste output anywhere.")
 # Originally by gurnec - https://github.com/gurnec/btcrecover
 
 import sys
